@@ -102,7 +102,7 @@ Repetition improves recall—but does not build brand affection.
 👤 Author:
 Azam
 Master’s Graduate – Marketing Analytics
-Skills: R · SQL · Experimental Analysis · Consumer Behavior
+Skills: R · Statistical Analysis · Consumer Behavior
 
 
 
